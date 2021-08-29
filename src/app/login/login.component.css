@@ -1,0 +1,91 @@
+body{
+    
+    background-image: url("../../assets/images/logback.jpg");
+    background-repeat: no-repeat;
+   /* background-position:center;*/
+    background-size:cover;
+    background-position:fixed;
+
+    background-attachment: fixed;
+   
+    height: 100vh;
+    
+}
+.row{
+    margin-top:60px;
+    margin-left: 400px;
+    
+    width: 500px;
+    height:500px;
+    background-color:rgb(67, 70, 71);
+    
+    opacity:0.9;
+    border-radius: 20px;
+display: flexbox;
+   
+
+
+}
+input[type=text]{
+    margin-left:-40px;
+    margin-top:80px;
+    width:300px;
+    height: 50px;
+    text-align: center;
+    border-radius: 20px;
+    outline:none;
+    opacity: 0.9;
+    
+}
+input[type="password"]{
+    margin-left:-40px;
+    width:300px;
+    height:50px;
+    text-align:center;
+    border-radius: 20px;
+    opacity:0.9;
+   outline:none ;
+    
+
+
+}
+button[type=submit]{
+    margin-left:-40px;
+    width:300px;
+    height:50px;
+    border-radius:20px;
+    outline: none;
+    color:tomato;
+    font-size: 20px;
+    font-family: monospace;
+
+
+    
+}
+button:hover{
+    color:rgb(247, 240, 238);
+    background-color: rgb(21, 126, 224);
+}
+button:active{
+    color:aqua;
+}
+h3{
+    text-transform: capitalize;
+text-align: center;
+color:azure;
+font-family:Verdana, Geneva, Tahoma, sans-serif;
+margin-left:-20px;
+}
+a{
+    margin:0;
+    padding:70px;
+}
+a:hover{
+    color:cornsilk;
+}
+a:active{
+    color:darkturquoise;
+}
+
+
+

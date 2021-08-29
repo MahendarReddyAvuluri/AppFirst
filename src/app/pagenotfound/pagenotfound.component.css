@@ -1,0 +1,18 @@
+h4{
+    font-family: unset;
+    color:whitesmoke;
+    text-align: center;
+}
+h3{
+    font-family:unset;
+    text-align:center ;
+    color:tomato;
+}
+p{
+    text-align: center;
+    text-transform: capitalize;
+    color:whitesmoke;
+}
+a{
+    color:violet;
+}

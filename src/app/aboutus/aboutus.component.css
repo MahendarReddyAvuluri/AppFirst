@@ -1,0 +1,32 @@
+body{
+    background-image: url(../../assets/images/chef1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.heading{
+    color:darkturquoise;
+    text-align: center;
+}
+p{
+    color:blueviolet;
+    margin-left:20px;
+    text-transform: capitalize;text-shadow: 1px 1px 1px black;
+
+}
+h2,h3{
+color:whitesmoke;
+margin-left:20px;
+font-family:monospace;
+font-weight: bolder;
+text-transform: capitalize;
+text-shadow: 2px 2px 2px red;
+
+}
+
+hr{
+    margin-left:500px;
+    padding-left: 80px;
+    height: 2px;
+    color:yellow;
+}

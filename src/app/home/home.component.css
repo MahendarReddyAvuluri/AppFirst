@@ -1,0 +1,49 @@
+p:h3{
+
+    height: 100vh;
+}
+h3{
+    margin-left:4px;
+    color:white;
+    font-weight: bolder;
+    
+}
+p{
+text-transform: capitalize;
+font-family:monospace;
+font-style:oblique;
+margin-left:6px;
+}
+.card-img-top{
+    width:100%;
+    height: 200px;
+    margin-top:20px;
+}
+.col-sm-3{
+    
+    background-color: lightsteelblue;
+    
+    
+
+}
+.col-sm-3,h4,a{
+    margin-left: 10px;
+}
+.row{
+    width:1400px;
+    padding:50px;
+    margin-top: -50px;
+    
+}
+div{
+    padding-left:20px;
+}
+.col-sm-3:hover{
+    
+    border-radius:10px; /* decressing sharpness*/
+	box-shadow: -4px 2px 4px 4px rgb(34, 8, 16);
+}
+p{
+    color:white;
+    text-shadow: 2px 2px 1px black;
+}

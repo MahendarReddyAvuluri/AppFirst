@@ -1,0 +1,32 @@
+input[type=text]{
+    Width:60%;
+    height:50px;
+    border-radius: 20px;
+    margin-left:50px;
+    text-align:center;
+    outline: none;
+}
+h4{
+    margin-left:20px;
+    font-family:sans-serif;
+    font-style:italic;
+    text-transform: capitalize;
+    color:white;
+}
+p{
+    margin-left:20px;
+
+color:white;
+}
+button[type=submit]{
+    Width:60%;
+    height:50px;
+    border-radius: 20px;
+    margin-left:50px;
+    text-align:center;
+    outline: none;
+
+}
+button:hover{
+    background-color: darkgreen;
+}
